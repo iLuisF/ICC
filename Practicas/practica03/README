@@ -1,0 +1,138 @@
+Flores González Luis Brandon
+
+
+Empieza con 22 errores
+
+1
+; esperado
+Puse el punto y coma
+21 errores
+ 
+3
+class esperado
+Puse la a en class
+23 errores
+
+5
+; esperado
+Puse el punto y coma
+22 errores
+
+6
+private esperado
+Puse la t en private
+20 errores
+
+8
+identificador esperado
+Puse los parentesis al contructor
+46 errores
+
+3
+clase esperado
+Puse la D al metodo, para que correspondiera al nombre de la clase.
+44 errores
+
+14
+; esperado
+Puse el punto y coma
+43 errores
+
+15
+; esperado
+Puse el punto y coma
+41 errores
+
+16
+} esperado
+puse la llave
+18 errores
+
+27
+= esperado
+puse el igual
+
+27
+. esperado
+Puse un punto entre this y x
+
+33
+= Expresion esperada
+Puse el igual
+18 errores
+
+47
+; esperado
+Puse el punto y coma
+19 errores 
+
+27
+= Expresion esperada
+Puse el igual
+17 errores
+
+34
++ Expresion esperada
+Puse el signo mas
+15 errores
+
+46
+Faltan corchetes en String y esta escrito args mal
+Le puse corchetes a String y puse args con minusculas
+15 errores
+
+17
+getX esta mal escrito, esta como grtX
+Le cambie la e por la r
+
+13
+, esperado
+Le puse , en los parametros
+
+20
+No se declaro x
+Le puse double para declarar x, quedo double x
+
+37
+void esta mal escrito
+Le agregue la d a voi 
+
+37
+X esta mal declarado	
+Puse x con minuscula
+
+37
+{ Esperado
+Le puse { al metodo
+
+42
+identificador esperado, public esta mal escrito
+Escribi adecuadamente public
+
+49
+{ Esperado	
+Le agregue {
+
+47
+Expresion esperada
+Le puse Vector 2D
+
+46
+void Metodo 
+cambie int por void
+
+48
+println expresion esperada
+cambie prinln por println
+
+47
+Expresion esperada
+Le agregue new
+
+48
++ Expresion esperda
+Le agrega el signo mas
+
+32
+Parametro mal escrito
+Cambie Vector3D por Vector2D
